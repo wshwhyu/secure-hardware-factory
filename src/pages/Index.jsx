@@ -6,7 +6,7 @@ const Index = () => {
     <Container maxW="container.xl" p={8}>
       <VStack spacing={10} align="stretch">
         <Heading as="h1" size="2xl" textAlign="center" color="blue.800" fontWeight="bold">
-          网云
+          网云硬件
         </Heading>
         <Text fontSize="xl" textAlign="center">
           领先的硬件厂商，专注于防火墙、网关、网闸等信息安全设备的研发与制造，
